@@ -181,3 +181,8 @@ tags
 tags.lock
 tags.temp
 tags.temp.tmp
+
+
+# Local config
+docker-compose.yml
+.htpasswd
